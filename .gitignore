@@ -1,4 +1,4 @@
-# LaTeX build files
+# LaTeX intermediate files
 *.aux
 *.log
 *.out
@@ -12,18 +12,19 @@
 *.run.xml
 *.bbl
 *.blg
-*.bcf
-*.bcf-SAVE-ERROR
-
-# latexmk specific garbage
 *.dvi
-*-converted-to.*
 *.xdv
+*-converted-to.*
+
+# biblatex / biber
+*.bcf
+*.bcf-*
 
 # Editor backups
 *~
 *.bak
+*.backup
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
