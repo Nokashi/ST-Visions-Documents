@@ -1,14 +1,23 @@
 
-main.aux 
-main.bbl 
-main.bcf 
-main.bcf-SAVE-ERROR 
-main.blg 
-main.dvi 
-main.fdb_latexmk 
-main.fls 
-main.log 
-main.out
-main.synctex.gz 
-main.run.xml 
-main.toc
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.run.xml
+*.bbl
+*.blg
+
+# Editor backup files
+*~
+*.bak
+
+# OS garbage
+.DS_Store
+Thumbs.db
