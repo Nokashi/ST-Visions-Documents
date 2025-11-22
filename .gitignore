@@ -12,6 +12,8 @@
 *.run.xml
 *.bbl
 *.blg
+*.bcf
+*.bcf-SAVE-ERROR
 
 # latexmk specific garbage
 *.dvi
