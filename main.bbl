@@ -1,0 +1,516 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{DBLP:conf/edbt/TritsarolisCTP21}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=609ad87699c103deb1db9b882e2e11f9}{%
+           family={Chondrodima},
+           familyi={C\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d528400f535544bdab9ddb640badd1d1}{%
+           family={Tampakis},
+           familyi={T\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dea050aeb2788734bc9987d69823bff5}{%
+           family={Pikrakis},
+           familyi={P\bibinitperiod},
+           given={Aggelos},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CEUR-WS.org}%
+      }
+      \strng{namehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{fullhash}{80cc957db607a7b7398a2a53817e8c08}
+      \strng{fullhashraw}{80cc957db607a7b7398a2a53817e8c08}
+      \strng{bibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorbibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authornamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorfullhash}{80cc957db607a7b7398a2a53817e8c08}
+      \strng{authorfullhashraw}{80cc957db607a7b7398a2a53817e8c08}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Workshops of the EDBT/ICDT 2021 Joint Conference}
+      \field{series}{CEUR Workshop Proceedings}
+      \field{title}{Online Co-movement Pattern Prediction in Mobility Data}
+      \field{volume}{2841}
+      \field{year}{2021}
+    \endentry
+    \entry{DBLP:journals/geoinformatica/TritsarolisCTPT24}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=609ad87699c103deb1db9b882e2e11f9}{%
+           family={Chondrodima},
+           familyi={C\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d528400f535544bdab9ddb640badd1d1}{%
+           family={Tampakis},
+           familyi={T\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dea050aeb2788734bc9987d69823bff5}{%
+           family={Pikrakis},
+           familyi={P\bibinitperiod},
+           given={Aggelos},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{fullhash}{c581297b9c2d0092d4f38da5d0c572f7}
+      \strng{fullhashraw}{c581297b9c2d0092d4f38da5d0c572f7}
+      \strng{bibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorbibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authornamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorfullhash}{c581297b9c2d0092d4f38da5d0c572f7}
+      \strng{authorfullhashraw}{c581297b9c2d0092d4f38da5d0c572f7}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{GeoInformatica}
+      \field{number}{2}
+      \field{title}{Predicting Co-movement patterns in mobility data}
+      \field{volume}{28}
+      \field{year}{2024}
+      \field{pages}{221\bibrangedash 243}
+      \range{pages}{23}
+    \endentry
+    \entry{VourosBigDataAnalytics}{book}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=30ff65239f9b4a9f5e448fbc6498c76d}{%
+           family={Vouros},
+           familyi={V\bibinitperiod},
+           given={George\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{fullhash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{fullhashraw}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{bibnamehash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{authorbibnamehash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{authornamehash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{authorfullhash}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \strng{authorfullhashraw}{c8162d0e524da0ab32b25109d4cfd9dd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Big Data Analytics for Time-Critical Mobility Forecasting: From Raw Data to Trajectory Oriented Mobility Analytics in the Aviation and Maritime Domains}
+      \field{year}{2020}
+    \endentry
+    \entry{DBLP:conf/mdm/TritsarolisPBZT24}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9822bc32016687c39e03a18c086e8a6a}{%
+           family={Pelekis},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a319e2be7e96e21cbb3615a359920413}{%
+           family={Bereta},
+           familyi={B\bibinitperiod},
+           given={Konstantina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e0f04690c02073fc3fec600653059579}{%
+           family={Zissis},
+           familyi={Z\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{fullhash}{6556d897823413e4919f58f922c974c3}
+      \strng{fullhashraw}{6556d897823413e4919f58f922c974c3}
+      \strng{bibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorbibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authornamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorfullhash}{6556d897823413e4919f58f922c974c3}
+      \strng{authorfullhashraw}{6556d897823413e4919f58f922c974c3}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 25th IEEE International Conference on Mobile Data Management (MDM)}
+      \field{title}{On Vessel Location Forecasting and the Effect of Federated Learning}
+      \field{year}{2024}
+      \field{pages}{83\bibrangedash 92}
+      \range{pages}{10}
+    \endentry
+    \entry{DBLP:conf/gis/MichalskiPRTTP24}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=00d8432b33caab2a7f835e08de2f3cd2}{%
+           family={Michalski},
+           familyi={M\bibinitperiod},
+           given={Patrik\bibnamedelima Thomas},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=2f798eaa06d0795e150b57f9698bd4c3}{%
+           family={Preuß},
+           familyi={P\bibinitperiod},
+           given={Niko},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5d4e64662bfbe811a1d1168939766d27}{%
+           family={Renz},
+           familyi={R\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9822bc32016687c39e03a18c086e8a6a}{%
+           family={Pelekis},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f7058a2c21a088abe7af2062fbabb658}
+      \strng{fullhash}{3e9678512e826ba4c541dc8999058be9}
+      \strng{fullhashraw}{3e9678512e826ba4c541dc8999058be9}
+      \strng{bibnamehash}{f7058a2c21a088abe7af2062fbabb658}
+      \strng{authorbibnamehash}{f7058a2c21a088abe7af2062fbabb658}
+      \strng{authornamehash}{f7058a2c21a088abe7af2062fbabb658}
+      \strng{authorfullhash}{3e9678512e826ba4c541dc8999058be9}
+      \strng{authorfullhashraw}{3e9678512e826ba4c541dc8999058be9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL)}
+      \field{title}{Collision-Risk-Aware Ship Routing}
+      \field{year}{2024}
+      \field{pages}{545\bibrangedash 548}
+      \range{pages}{4}
+    \endentry
+    \entry{DBLP:conf/edbt/MandalisCKPT23}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=85b5ee66d93d2b49921e13154d3e4efd}{%
+           family={Mandalis},
+           familyi={M\bibinitperiod},
+           given={Petros},
+           giveni={P\bibinitperiod}}}%
+        {{hash=609ad87699c103deb1db9b882e2e11f9}{%
+           family={Chondrodima},
+           familyi={C\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f72c18df88413237e0fff342adc02033}{%
+           family={Kontoulis},
+           familyi={K\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9822bc32016687c39e03a18c086e8a6a}{%
+           family={Pelekis},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CEUR-WS.org}%
+      }
+      \strng{namehash}{114273a8b133eacf0f7b682b320de177}
+      \strng{fullhash}{17a80c35eb3e367036c869ec79241608}
+      \strng{fullhashraw}{17a80c35eb3e367036c869ec79241608}
+      \strng{bibnamehash}{114273a8b133eacf0f7b682b320de177}
+      \strng{authorbibnamehash}{114273a8b133eacf0f7b682b320de177}
+      \strng{authornamehash}{114273a8b133eacf0f7b682b320de177}
+      \strng{authorfullhash}{17a80c35eb3e367036c869ec79241608}
+      \strng{authorfullhashraw}{17a80c35eb3e367036c869ec79241608}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Workshops of the EDBT/ICDT Joint Conference}
+      \field{title}{Towards a Unified Vessel Traffic Flow Forecasting Framework}
+      \field{volume}{3379}
+      \field{year}{2023}
+    \endentry
+    \entry{vision2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=26d96955f54ca9ea8feca894f58a517e}{%
+           family={Andrienko},
+           familyi={A\bibinitperiod},
+           given={Natalia\bibnamedelima V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=a7552c2bd15ad1927802e38fdece8b43}{%
+           family={Andrienko},
+           familyi={A\bibinitperiod},
+           given={Gennady\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{fullhash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{fullhashraw}{8a6933510e9e550b126f042922ce23e5}
+      \strng{bibnamehash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{authorbibnamehash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{authornamehash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{authorfullhash}{8a6933510e9e550b126f042922ce23e5}
+      \strng{authorfullhashraw}{8a6933510e9e550b126f042922ce23e5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Spatial Information Science}
+      \field{title}{Spatio-temporal visual analytics: a vision for 2020s}
+      \field{volume}{20}
+      \field{year}{2020}
+      \field{pages}{87\bibrangedash 95}
+      \range{pages}{9}
+    \endentry
+    \entry{MaSEC}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f72c18df88413237e0fff342adc02033}{%
+           family={Kontoulis},
+           familyi={K\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9822bc32016687c39e03a18c086e8a6a}{%
+           family={Pelekis},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{fullhash}{f08010d64fe87ed01d2e7e460ff099f0}
+      \strng{fullhashraw}{f08010d64fe87ed01d2e7e460ff099f0}
+      \strng{bibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorbibnamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authornamehash}{c97be60f4fb6ff297decf20e3772c24d}
+      \strng{authorfullhash}{f08010d64fe87ed01d2e7e460ff099f0}
+      \strng{authorfullhashraw}{f08010d64fe87ed01d2e7e460ff099f0}
+      \field{extraname}{4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 17th International Symposium on Spatial and Temporal Databases}
+      \field{title}{MaSEC: Discovering Anchorages and Co-movement Patterns on Streaming Vessel Trajectories}
+      \field{year}{2021}
+      \field{pages}{170\bibrangedash 173}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/3469830.3470909
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3469830.3470909
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3469830.3470909
+      \endverb
+    \endentry
+    \entry{DBLP:conf/gis/TritsarolisPT23}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=b8847e2887851baade84830fc72e7415}{%
+           family={Tritsarolis},
+           familyi={T\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9822bc32016687c39e03a18c086e8a6a}{%
+           family={Pelekis},
+           familyi={P\bibinitperiod},
+           given={Nikos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d7855861b77ed6e98f54ca6e9ace4214}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={Yannis},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{fullhash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{fullhashraw}{e753f6588d057db5fcae0ffce3356656}
+      \strng{bibnamehash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{authorbibnamehash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{authornamehash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{authorfullhash}{e753f6588d057db5fcae0ffce3356656}
+      \strng{authorfullhashraw}{e753f6588d057db5fcae0ffce3356656}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL)}
+      \field{title}{VesselVision: Fleet Safety Awareness over Streaming Vessel Trajectories}
+      \field{year}{2023}
+      \field{pages}{20:1\bibrangedash 20:4}
+      \range{pages}{-1}
+    \endentry
+    \entry{SensePlace3}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=de08ea19de986c9ededca5409362a3d5}{%
+           family={Pezanowski},
+           familyi={P\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{fullhash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{fullhashraw}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{bibnamehash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{authorbibnamehash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{authornamehash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{authorfullhash}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \strng{authorfullhashraw}{4965f8bb80fd57c0b97fab713d5c0c4e}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cartography and Geographic Information Science}
+      \field{title}{SensePlace3: A geovisual framework to analyze place--time--attribute information in social media}
+      \field{volume}{45}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1080/15230406.2017.1370391
+      \endverb
+    \endentry
+    \entry{EconomicVA}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=050e5b6d0aebf4f2ad5790f0810e9af3}{%
+           family={Leite},
+           familyi={L\bibinitperiod},
+           given={Roger\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{836e379d368481d72470f69e9b04c539}
+      \strng{fullhash}{836e379d368481d72470f69e9b04c539}
+      \strng{fullhashraw}{836e379d368481d72470f69e9b04c539}
+      \strng{bibnamehash}{836e379d368481d72470f69e9b04c539}
+      \strng{authorbibnamehash}{836e379d368481d72470f69e9b04c539}
+      \strng{authornamehash}{836e379d368481d72470f69e9b04c539}
+      \strng{authorfullhash}{836e379d368481d72470f69e9b04c539}
+      \strng{authorfullhashraw}{836e379d368481d72470f69e9b04c539}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Visual Informatics}
+      \field{number}{4}
+      \field{title}{Hermes: Guidance-enriched Visual Analytics for economic network exploration}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{11\bibrangedash 22}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.visinf.2020.09.006
+      \endverb
+    \endentry
+    \entry{nayeem2024}{misc}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=724cc55fb566d514f4d0048f6409f65c}{%
+           family={Nayeem},
+           familyi={N\bibinitperiod},
+           given={Abdullah-Al-Raihan},
+           giveni={A\bibinithyphendelim A\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{fullhash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{fullhashraw}{805fb08b2e20eafd698d25d149206fba}
+      \strng{bibnamehash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{authorbibnamehash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{authornamehash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{authorfullhash}{805fb08b2e20eafd698d25d149206fba}
+      \strng{authorfullhashraw}{805fb08b2e20eafd698d25d149206fba}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Survey on Exploratory Spatiotemporal Visual Analytics Approaches for Climate Science}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2407.21199
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2407.21199
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{10.5555/2602439}
+\endrefsection
+\endinput
+

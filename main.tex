@@ -1,0 +1,34 @@
+\documentclass[12pt]{article}
+\usepackage{listings} % Include the listings package
+\usepackage[T1]{fontenc} % Add the fontenc package with T1 encoding
+\usepackage{subcaption}
+\usepackage{multicol}
+\usepackage{etoolbox}
+\usepackage[autostyle,english=american]{csquotes}
+\MakeOuterQuote{"}
+\usepackage{paracol} 
+\thispagestyle{empty}
+\AtBeginEnvironment{quote}{\par\singlespacing\small}
+
+
+\usepackage{./layouts/style}
+
+\graphicspath{{images/}}
+\addbibresource{references/sources.bib}
+\graphicspath{images/}
+\geometry{letterpaper, portrait, includeheadfoot=false, hmargin=0.5in, vmargin=0.5in}
+
+
+%\fontsize{font size}{vertsize (usually 1.2x)}\selectfont
+
+\begin{document}
+	\renewcommand{\familydefault}{\rmdefault}
+	\input{layouts/titlepage}
+	
+	\fontsize{12}{18}\selectfont{
+		\input{sections/progressreport}
+		
+		\newpage
+		\printbibliography
+	}
+\end{document}
